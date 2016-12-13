@@ -1,0 +1,21 @@
+#card{
+  background-color:#9caaaa;
+}
+
+#conditions{
+  border: 5px solid red;
+}
+
+#lowTemp{
+  border: 5px solid red;
+
+}
+
+#highTemp{
+  border: 5px solid red;
+}
+
+#image{
+  border: 5px solid red;
+
+}
